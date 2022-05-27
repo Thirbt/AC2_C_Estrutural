@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1653614939 source:c:\users\aluno\downloads\atividade_ac2\main.c
+	<stdio.h>
+	"Lista.h"
+	"pilha.h"
+	"fila.h"
+	"arv.h"
+
+1653603455 c:\users\aluno\downloads\atividade_ac2\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1653603386 c:\users\aluno\downloads\atividade_ac2\pilha.h
+	<stdlib.h>
+
+1653603430 c:\users\aluno\downloads\atividade_ac2\fila.h
+	<stdlib.h>
+	<stdio.h>
+
+1653614978 c:\users\aluno\downloads\atividade_ac2\arv.h
+	<stdlib.h>
+
